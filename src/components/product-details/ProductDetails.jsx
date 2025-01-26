@@ -37,8 +37,6 @@ function ProductDetails() {
     );
   }
 
- 
-
   return (
     <>
       <div className="px-4 md:px-20 mt-4">
